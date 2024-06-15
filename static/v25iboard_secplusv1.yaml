@@ -30,7 +30,7 @@ dashboard_import:
 
 packages:
   remote_package:
-    url: https://github.com/ratgdo/esphome-ratgdo
+    url: https://github.com/jdarmst/esphome-ratgdo-dry-contact-no-action
     files: [base_secplusv1.yaml]
     refresh: 1s
 
